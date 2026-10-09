@@ -25,6 +25,12 @@ başarısız analizler tek tıkla yeniden denenebilir.
 yapılandırılmış veriye dönüştürür — tek bir multimodal çağrıya göre daha fazla kontrol noktası ve
 hata ayıklanabilirlik sağlar (OCR çıktısı `raw_text` kolonunda saklanır).
 
+## Ekran Görüntüleri
+
+| Giriş | Dashboard | Fiş Detayı |
+|---|---|---|
+| ![Giriş](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Fiş Detayı](docs/screenshots/receipt-detail.png) |
+
 ## Örnek fişler
 
 `sample-receipts/` klasöründe üç sentetik Türkçe fiş görseli var (market, restoran, akaryakıt) —
